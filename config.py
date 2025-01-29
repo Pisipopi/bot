@@ -1,7 +1,7 @@
 import os
 
 # Telegram Bot Configuration
-BOT_TOKEN = os.environ.get("BOT_TOKEN")  # Will be loaded from environment variables
+BOT_TOKEN = '7804303718:AAEEESaeNq-oswyuY73ldfDmIkiOiQS1VFU'
 
 # Bot Settings
 MAX_PARTICIPANTS = 15
