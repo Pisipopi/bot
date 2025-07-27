@@ -1,7 +1,7 @@
 import os
 
 # Telegram Bot Configuration
-BOT_TOKEN = '7804303718:AAF5JMfdSYEXv1Xz9mF3yJJNQV09oSs-Irc'
+BOT_TOKEN = '7804303718:AAHuALwgEUXtxhEoXGKcftu29_w_-L7n6vA'
 
 # Bot Settings
 MAX_PARTICIPANTS = 15
