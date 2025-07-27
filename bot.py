@@ -1,7 +1,13 @@
 import os
 import logging
 from telegram import Update
-from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
+from telegram.ext import (
+    ApplicationBuilder,
+    CommandHandler,
+    MessageHandler,
+    ContextTypes,
+    filters
+)
 from datetime import datetime, timedelta
 import sqlite3
 from config import BOT_TOKEN, MAX_PARTICIPANTS, RESPONSES
